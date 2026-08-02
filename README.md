@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Tech-Liang, a student from China, currently studing financial management in SUIBE, and having hobbies of painting and programming.
+
+I usually programming in python, shell and c.
+
+I mostly using vim or neovim to coding when developing small projects, and using vscode or pycharm for develop larger projects.
+
+At present, I'm using Debian13 and Fedora43 as my main operating system.
+
+Currently, I'm still learning personal development projects.
