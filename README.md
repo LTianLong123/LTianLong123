@@ -25,4 +25,4 @@ At present, I'm using Debian13 and Fedora43 as my main operating system.
 
 Currently, I'm still learning personal development projects.
 
-![Visitor Count](https://profile-counter.blitch.me/LTianLong123/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LTianLong123/count.svg)
